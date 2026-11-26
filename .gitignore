@@ -1,0 +1,9 @@
+# 忽略 Python 缓存
+__pycache__/
+
+# 忽略 docs 文件夹及其下的所有内容
+docs/
+
+
+runs/
+
